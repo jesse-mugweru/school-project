@@ -1,0 +1,122 @@
+[
+  {
+    "title": "A Second Post",
+    "content": "This is a post from a different user...",
+    "user_id": 2
+  },
+  {
+    "title": "Top 5 Programming Lanaguages",
+    "content": "In today's world, programming skills are needed for the majority of tech jobs. A good tech career necessitates the knowledge of programming languages. After all, thousands of different programming languages are used by people all over the world. But, of all these languages, which is the most commonly spoken? This year, TechGig has compiled a list of the top 5 programming languages for engineers to keep an eye on",
+    "user_id": 1
+  },
+  {
+    "title": "Sublime Text Tips and Tricks",
+    "content": "Ea vix dico modus voluptatibus, mel iudico suavitate iracundia eu. Tincidunt voluptatibus pro eu? Nulla omittam eligendi his ne, suas putant ut pri. Ullum repudiare at duo, ut cum habeo minim laudem, dicit libris antiopam has ut! Ex movet feugait mea, eu vim impetus nostrud cotidieque.\r\n\r\nEi suas similique quo, his simul viris congue ex? Graeci possit in est, ne qui minim delectus invenire. Mei ad error homero maluisset, tacimates assentior per in, vix ut vocent accusata! Mei eu inermis pericula patrioque? Debet denique sea at, ad cibo reformidans theophrastus per, cu inermis maiestatis vim!\r\n\r\nUt odio feugiat voluptua est, euismod volutpat qualisque at sit, has ex dicit ornatus inimicus! Eu ferri laoreet vel, dicat corrumpit dissentias nec in. Illum dissentiunt eam ei, praesent voluptatum pri in? Ius in inani petentium, hinc elitr vivendum an vis, in vero dolores electram ius?",
+    "user_id": 1
+  },
+  {
+    "title": "Best Python IDEs",
+    "content": "IDE is basically a software pack that consist of equipment’s which are used for developing and testing the software. A developer throughout SDLC uses many tools like editors, libraries, compiling and testing platforms. IDE helps to automate the task of a developer by reducing manual efforts and combines all the equipment’s in a common framework. If IDE is not present, then the developer has to manually do the selections, integrations and deployment process. IDE was basically developed to simplify the SDLC process, by reducing coding and avoiding typing errors. In contrast to the IDE, some developers also prefer Code editors. Code Editor is basically a text editor where a developer can write the code for developing any software. Code editor also allows the developer to save small text files for the code",
+    "user_id": 1
+  },
+  {
+    "title": "Flask vs Django - Which Is Better?",
+    "content": "Flask provides support for API while Django doesn't have any support for API. ... Flask is a Python web framework built for rapid development whereas Django is built for easy and simple projects. Flask offers a diversified working style while Django offers a Monolithic working style",
+    "user_id": 2
+  },
+  {
+    "title": "You Won't Believe These Clickbait Titles!",
+    "content": "Clickbaits are quite common in social media. The basic concept of ‘clickbait’ is to create a melodramatic title for an online article so as to manipulate people into clicking the link and reading the content. Honestly, clickbait is a smart idea for publicity but, the way it has taken over social media over bland content is quite annoying. Below I have listed 9 categories of clickbaits commonly found in our social media with examples. Watch out for number 8! It’s quite interesting!",
+    "user_id": 2
+  },
+  {
+    "title": "These Beers Will Improve Your Programming",
+    "content": "Sanctus senserit vis id, ut eum iuvaret invidunt constituam? Nonumes facilis mei an, ad elit explicari persequeris pri, dico recusabo quo id? At mea lorem repudiandae. Sed causae sensibus forensibus ea, ne ornatus suscipiantur consectetuer mel, affert nostro nominati cu qui. Te sanctus constituto est, corrumpit pertinacia eos et, mei libris persequeris an.\r\n\r\nQuo fuisset sensibus in. Ad est assueverit adversarium, viris aperiri numquam est ad. Pro mediocrem iudicabit ei! Cu aperiam diceret sit.",
+    "user_id": 1
+  },
+  {
+    "title": "List of Python Talks",
+    "content": "The first time I attended, I quickly realized that it was more a community event than a typical conference. There were people from all over the world, from all walks of life. There were no prejudicial biases—apart from everyone knowing that Python is the best programming language out there!",
+    "user_id": 1
+  },
+  {
+    "title": "How Dogs in the Workplace Boosts Productivity",
+    "content": "Not only does your cortisol level drop when you stroke a dog, (but) you also produce more of the hormone oxytocin, which makes you feel more relaxed and happy.” In addition to being a stress reliever and motivator to increase productivity, pets can also provide a way to bring employees closer together.",
+    "user_id": 1
+  },
+  {
+    "title": "The Best Programming Podcasts",
+    "content": "This Podcast is a Daily podcast about software engineering hosted by Jeff. Data from two years at Software Engineering Radio indicates that technical software podcast listeners are an under-served market. If you are a software engineer who doesn't listen to many podcasts about software, this should be self-evident.",
+    "user_id": 1
+  },
+  {
+    "title": "Tips for Public Speaking",
+    "content": "Dennis Ritchie “Father of the C programming language” who also created UNIX operating system along with his long-time colleague Ken Thompson. He was an American Computer Scientist. In 1983 he received the Turing Award from the ACM, the Hamming Medal in 1990 from the IEEE and in 1999 the National Medal of Technology from President Clinton. Ritchie was the head of the Lucent Technologies System Software Research Department when he retired in 2007. Modern computing would not have existed without Dennis Ritchie, Without C there is no UNIX, Windows, Linux, C++, Google Chrome, Safari, Firefox, MacOSX, Playstation, Xbox ad a lot of software and devices. 90% of applications in the world are written in C and that’s the reason Dennis Ritchie deserves a lot of respect.",
+    "user_id": 2
+  },
+  {
+    "title": "Best Programmers Throughout History",
+    "content": "We are living today in a world where everything is possible using technology introduced by great programmers. If you are a programmer or do coding you might have inspired or influenced by some of the legendary programmers and you might have been aware of their exceptional work as well.",
+    "user_id": 2
+  },
+  {
+    "title": "How To Create A YouTube Channel",
+    "content": "YouTube, the Google-owned video network, boasts over a billion users — almost one-third of all people on the Internet — and every day people watch hundreds of millions of hours on YouTube and generate billions of views. On mobile alone, YouTube reaches more 18-34 and 18-49 year-olds than any cable network in the U.S. What’s amazing, though, is that only 9% of small businesses in the U.S. are actively using YouTube, and my hunch is that figure would be pretty accurate worldwide, too.",
+    "user_id": 2
+  },
+  {
+    "title": "How I Record My Videos",
+    "content": "This chapter gives an introduction to the Python language at a level suitable for readers with no previous programming experience. It introduces the basic elements of programming with variables and arrays, assignments, arithmetic and functions, inputs, outputs, conditionals, and loops, all in the Python language. The ideas are illustrated with examples drawn from various branches of physics, including classical mechanics, special relativity, and quantum physics.",
+    "user_id": 1
+  },
+  {
+    "title": "Python and Physics",
+    "content": "The Python programming language is an excellent choice for learning, teaching, or doing computational physics. It is a well-designed, modern programming language that is simultaneously easy to learn and very powerful. It includes a range of features tailored for scientific computing, including features for handling vectors, inverting and diagonalizing matrices, performing Fourier transforms, making graphs, and creating 3D graphics. This page contains a selection of resources I've developed for teachers and students interested in computational physics and Python.",
+    "user_id": 1
+  },
+  {
+    "title": "Just A Few More Healines Should Do It",
+    "content": "If music is too slow or ethereal, then it signals my brain to move more slowly. If music is too fast or intense, then I feel rushed or stressed. Neither condition is good for deep work! Instead, I focus on finding music that has a consistent (but not intense) forward motion - pushing me to keep working.",
+    "user_id": 1
+  },
+  {
+    "title": "Music To Listen To While Coding",
+    "content": "If there is a vocal track in music, my brain tends to focus on the words being sung - so when I want to get deep into a coding problem, I'll select music that doesn't have any vocals. That way, I can focus on the work, and not on the music - the music will just fade into the background.",
+    "user_id": 1
+  },
+  {
+    "title": "5 Tips for Writing Catchy Headlines",
+    "content": "If you tend to view writing catchy headlines more as an afterthought than as a key component of your content strategy, it’s time to reconsider. Headlines can make or break your website traffic goals, your social shares, and just about every content metric. After all, about five times as many people will scan the headline as read the article. That means if your headline doesn’t capture interest or drive action, your audience is incredibly likely to move on to another piece of content.",
+    "user_id": 2
+  },
+  {
+    "title": "The Rise of Data Science",
+    "content": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data, and apply knowledge and actionable insights from data across a broad range of application domains.",
+    "user_id": 2
+  },
+  {
+    "title": "Best Videos For Learning Python",
+    "content": "Python collections are container data types, namely lists, sets, tuples, dictionary. The collections module provides high-performance datatypes that can enhance your code, making things much cleaner and easier. There are a lot of functions provided by the collections module. For this demonstration, I will be using Counter() function. The Counter() function takes an iterable, such as a list or tuple, and returns a Counter Dictionary. The dictionary’s keys will be the unique elements present in the iterable, and the values for each key will be the count of the elements present in the iterable To create a counter object, pass an iterable (list) to Counter() function as shown in the code below.",
+    "user_id": 1
+  },
+  {
+    "title": "Top 10 Python Tips and Tricks",
+    "content": "According to Stack Overflow, Python is the fastest growing programming language. The latest report from Forbes states that Python showed a 456-percent growth in last year. Netflix uses Python, IBM uses Python, and hundreds of other companies all use Python. Let’s not forget Dropbox. Dropbox is also created in Python. According to research by Dice Python is also one of the hottest skills to have and also the most popular programming language in the world based on the Popularity of Programming Language Index. Some of the advantages Python offers when compared to other programming languages are: Compatible with major platforms and operating system Many open-source frameworks and tools Readable and maintainable code Robust standard library Standard test-driven development",
+    "user_id": 1
+  },
+  {
+    "title": "Top 5 YouTube Channels For Learning Programming",
+    "content": "YouTube has now expanded to over millions of channels, many of which are producing amazing content every single day. The best thing about YouTube is that it is one of the most powerful content marketing tools available online at this moment. Many viewers are able to get valuable content on-the-go. This content is also free and many people who don’t want to spend money on guides, books, courses, and tutoring often spend their time on YouTube to gather information",
+    "user_id": 2
+  },
+  {
+    "title": "My Latest Creation Up in This",
+    "content": "Decorating a home that feels fresh and modern without veering on sterile or cold is a delicate, difficult-to-achieve dance. How do you create a warm, family-friendly space that's also au courant and design-forward? Well, Seattle-based designer Brian Paquette has been doing just that for years: conjuring fresh, style-savvy, and approachable interiors that are the best of both the old and new. In his new book, At Home: Evocative & Art-Forward Interiors, Paquette breaks it all down. Ahead, get a taste of his inimitable look and discover ten takeaways from the book to apply to your own space for a polished look you can actually live in.",
+    "user_id": 1
+  },
+  {
+    "title": "BRT on Thika Rd SuperHighway",
+    "content": "The Ministry of Transport has said that only electric buses will be allowed on the Bus Rapid Transport lanes on the Thika Superhighway Principal Secretary Charles Hinga revealed as he gave an update on the remodeling of the road to accommodate the new proposed transport system. The BRT concept is being managed by the Nairobi Metropolitan Area Transport Authority (NaMATA). Transport CS James Macharia in 2019 told the National Assembly that the total cost of the project was estimated to be Sh5.8 billion. Motorists who wish to use the BRT system will have to leave their cars at the Park and Ride facilities near Kasarani stadium. However the government is yet to provide a date to launch the BRT system which is meant to decongest Nairobi’s transport corridor.",
+    "user_id": 1
+  }
+]
